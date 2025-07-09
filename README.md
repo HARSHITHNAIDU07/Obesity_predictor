@@ -49,17 +49,17 @@ pip install streamlit pandas scikit-learn
 ```
 
 
-##▶️ Run the App
+## ▶️ Run the App
 ```bash
 streamlit run app.py
 ```
 
-##🌐 Open in Browser
+## 🌐 Open in Browser
 ```bash
 http://localhost:8501
 ```
 
-##🧬 Model Details
+## 🧬 Model Details
 
 - Algorithm: Random Forest Classifier
 
@@ -69,8 +69,8 @@ http://localhost:8501
 
 - StandardScaler for continuous variables
 
-= Training: Model is trained and cached on first load
+- Training: Model is trained and cached on first load
 
-##👨‍💻 Author
+## 👨‍💻 Author
 - Made By Harshith Naidu
 
