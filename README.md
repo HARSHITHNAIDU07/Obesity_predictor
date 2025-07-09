@@ -32,7 +32,7 @@ The model predicts one of the following categories:
 
 ## 📁 Dataset
 
-- Source: [`ObesityDataSet_raw_and_data_sinthetic.csv`](https://www.kaggle.com/datasets/sanchesalvador/obesity-dataset)
+- Source: [`ObesityDataSet_raw_and_data_sinthetic.csv`](https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition)
 - File path used in the app: `/content/ObesityDataSet_raw_and_data_sinthetic.csv`
 
 You can change the path if your file is stored elsewhere.
