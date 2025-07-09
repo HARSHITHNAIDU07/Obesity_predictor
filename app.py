@@ -1,5 +1,5 @@
 # ⚠️ st.set_page_config must be FIRST Streamlit command
-!pip install streamlit pandas numpy scikit-learn
+pip install streamlit pandas numpy scikit-learn
 
 import streamlit as st
 st.set_page_config(page_title="Obesity Category Predictor", layout="centered")
